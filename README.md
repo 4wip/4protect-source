@@ -1,3 +1,5 @@
+N'hésite pas à mettre en Star ce github si tu en veux encore
+
 ## Installation
 
 1. Assurez-vous d'avoir [Node.js](https://nodejs.org/) version 16.20.0 installée sur votre machine.
