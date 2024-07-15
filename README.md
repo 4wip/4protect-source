@@ -1,4 +1,6 @@
-N'hésite pas à mettre en Star ce github si tu en veux encore
+N'hésite pas à mettre en Star ce github si tu en veux encore. 
+Inspirée de Suprêmebot et Crowbot de Raven ( original) 
+
 
 ## Installation
 
