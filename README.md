@@ -1,8 +1,5 @@
-N'hésite pas à mettre en Star ce github si tu en veux encore. 
-Inspirée de Suprêmebot et Crowbot de Raven ( original) 
+N'hésite pas à mettre en Star ce github.
 
-
-## Installation
 
 1. Assurez-vous d'avoir [Node.js](https://nodejs.org/) version 16.20.0 installée sur votre machine.
 2. Installer le zip du bot dans les releases.
