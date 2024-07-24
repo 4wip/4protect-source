@@ -16,6 +16,7 @@ N'hésite pas à mettre en Star ce github.
 
 N'oubliez pas de configurer les **3 Privileged Gateway Intents** dans votre application Discord et le config.json.
 Je ne fournis pas d'aide pour ce bot.
+Aussi les permissions des commandes sont un peu cassé sinon c'est correct (tu met owner directement ou tu va sur le crow)
 
 ## Crédit
 
