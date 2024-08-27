@@ -6,6 +6,6 @@ module.exports = {
         color: '#6495ED', // Couleur en HEX | https://htmlcolorcodes.com/fr/selecteur-de-couleur/
         footer: '4Protect', // Quand tu fais +help par exemple y'a un texte en bas de l'embed...
         maxserver: '100', // Maximum de serveur ou ton bot peut etre dedans...
-        hostedBy: true, 
+        hostedBy: true, // Touche pas 
     }
 }
