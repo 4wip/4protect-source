@@ -16,7 +16,6 @@ https://dsc.gg/4wip - Si ta besoin d'aide (discord)
 ## Configuration
 
 N'oubliez pas de configurer les **3 Privileged Gateway Intents** dans votre application Discord et le config.json.
-Je ne fournis pas d'aide pour ce bot.
 
 ## Crédit
 
