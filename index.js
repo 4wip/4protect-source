@@ -14,7 +14,7 @@ const client = new Client({
     partials: ["USER", "CHANNEL", "GUILD_MEMBER", "MESSAGE", "REACTION"]
 });
 
-client.login(config.app.token);
+client.login(process.env.token);
 client.commands = new Collection();
 
 const { GiveawaysManager } = require('discord-giveaways');
