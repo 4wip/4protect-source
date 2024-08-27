@@ -1,7 +1,6 @@
 module.exports = {
     app: {
         px: '+', // Le prefix exemple +help *help ta capter le prefix avant la commande...
-        token: 'evapvepavepapveapvepapvea', // Ton Token de bot ne le partage à personne...
         owners: '1208337813339373569', // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
         funny: '1208337813339373569',  // Ici tu te met owner (Que toi pas tes meilleurs collègue...)
         color: '#6495ED', // Couleur en HEX | https://htmlcolorcodes.com/fr/selecteur-de-couleur/
