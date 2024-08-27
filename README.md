@@ -13,7 +13,7 @@ Pour inviter le bot
 
 Héberger 24/7 sur Render | Gratuit (PC et Mobile)
 ```
-Faites un fork du gitHub : https://github.com/4wip/Crowbot-Setup/fork
+Faites un fork du gitHub : https://github.com/4wip/naoki-modifier/fork
 Sur le site Render, créez un compte (c'est le bouton sign in) : https://render.com/
 
 Créez un service web:
