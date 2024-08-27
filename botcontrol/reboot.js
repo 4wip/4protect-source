@@ -15,7 +15,7 @@ module.exports = {
             message.channel.send(`${emote.buyer.loading} Reboot en cours ...`).then(async message => {
                 message.edit(`${emote.buyer.loading} Reboot en cours ...`)
                 client.destroy();
-                await client.login(config.app.token);
+                await client.login(process.env.token);
                 await message.edit(`${emote.buyer.loading} Reboot en cours ...`)
                 message.edit(`${emote.buyer.valid} Reboot terminé`)
 
