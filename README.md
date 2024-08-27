@@ -31,7 +31,7 @@ token : meeae898787 (tu met le token de ton bot)
 NODE_VERSION : 16.20.0 (Si tu le met pas le bot va pas marcher)
 
 Enfin, créez votre service web
-Allez dans l'onglet "logs" sur Render pour voir si l'indication suivante : "Connecté à Nomdetonbot". Cela signifie que votre bot est en ligne et marche (sa peut prendre du temps)
+Allez dans l'onglet "logs" sur Render pour voir si l'indication suivante : "nomdubot connecté". Cela signifie que votre bot est en ligne et marche (sa peut prendre du temps)
 ```
 Maintenir le bot en ligne 24/7
 ```
