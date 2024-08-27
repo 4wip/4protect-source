@@ -20,5 +20,4 @@ Je ne fournis pas d'aide pour ce bot.
 
 ## Crédit
 
-Ce bot a été créé par **Betaaaaaaaaaaa**.
-Ce bot a été modifiée par moi.
+Ce bot a été créé par **Betaaaaaaaaaaa** modifiée par moi.
