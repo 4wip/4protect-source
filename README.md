@@ -1,4 +1,5 @@
 https://dsc.gg/4wip - Si ta besoin d'aide (discord)
+Logs + Gestion perm cassé
 
 Créer un bot
 ```
