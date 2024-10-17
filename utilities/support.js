@@ -14,7 +14,7 @@ module.exports = {
         const embed = new MessageEmbed()
             .setColor(color)
             .setDescription(`Tu veux rejoindre le support du bot ?
-            [Oui, je veux rejoindre](https://discord.gg/A5bfyv3AzB)`)
+            [Oui, je veux rejoindre](https://discord.gg/79kj4zTzju)`)
             .setFooter({ text: config.app.footer });
 
             await message.author.send({ embeds: [embed] });
